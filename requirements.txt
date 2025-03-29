@@ -1,0 +1,10 @@
+flask
+flask-cors
+pandas
+numpy
+nltk
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+transformers
+gunicorn
